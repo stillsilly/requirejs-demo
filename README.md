@@ -7,7 +7,7 @@
 ``` bash
 无需安装任何依赖，直接浏览器打开就行。
 ```
-###截图
+### 截图
 ![index-page](assets/index-page.png)
 ![article-page](assets/article-page.png)
 ![training-page](assets/training-page.png)
